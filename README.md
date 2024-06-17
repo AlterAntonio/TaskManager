@@ -1,2 +1,2 @@
 # TaskManager
-Simple task manager with color option
+Простой менеджер задач из урока, в который была добавлена опция рандомайзера цветовой схемы.
